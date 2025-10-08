@@ -54,22 +54,19 @@ export const teamDetails = [
     },
   },
   {
-    name: "Pessoa 4",
-    role: "Desenvolvedor Front-end",
+    name: "Marlon Willian",
+    role: "Desenvolvedor Front-End",
     avatarUrl: "/path/to/avatar1.jpg",
-    bio: "Olá! Sou apaixonado por interfaces modernas e acessíveis. Trabalho com React, Vue e adoro transformar ideias em experiências digitais.",
-    skills: ["React", "JavaScript", "CSS", "Acessibilidade", "Figma"],
+    bio: "Olá! Eu sou Marlon, tenho 21 anos, e estou cursando engenharia de software.",
+    skills: ["React", "JavaScript", "SQL", "NodeJS", "Figma", "HTML", "CSS"],
     education: [
       {
-        institution: "Universidade X",
-        degree: "Bacharel em Sistemas de Informação",
-        year: 2022,
+        institution: "Unicesumar",
+        degree: "Bacharel em Engenharia de Software",
+        year: 2025,
       },
     ],
-    hobbies: ["Ciclismo", "Leitura", "Café"],
-    social: {
-      linkedin: "https://linkedin.com/in/pessoa1",
-    },
+    hobbies: ["Futebol", "Jogos"],
   },
   {
     name: "Pessoa 5",
